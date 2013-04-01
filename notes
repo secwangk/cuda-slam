@@ -1,0 +1,9 @@
+low.c
+ 1213-1255 add live presentation of maps
+ 1300 call function to printout the map
+
+the meaning of the printed map:
+black: occuied
+
+low.c
+unsigned char map[...][...];//存放地图各个点的状态
